@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Задание 1");
         byte dog = 127;
         System.out.println("Значение переменной dog с типом byte равно " + dog);
@@ -98,6 +97,5 @@ public class Main {
         System.out.println("Маша теперь получает " + MashaNew + " рублей. Годовой доход вырос на " + MashaYearUp + " рублей");
         System.out.println("Денис теперь получает " + DenisNew + " рублей. Годовой доход вырос на " + DenisYearUp + " рублей");
         System.out.println("Кристина теперь получает " + KristinaNew + " рублей. Годовой доход вырос на " + KristinaYearUp + " рублей");
-
     }
 }
